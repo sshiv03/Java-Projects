@@ -1,0 +1,12 @@
+---
+:id: 2515945
+:submitters:
+- :name: Shivali Sharma
+  :email: sshar488@uwo.ca
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-11-15 00:37:39.945198000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-11-14 16:37:39.945198000 Z
+:status: processed
+:score: 20.0
